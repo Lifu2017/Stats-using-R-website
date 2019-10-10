@@ -1,0 +1,13 @@
+---
+title: install R & RStudio
+author: Li Fu
+date: '2019-10-10'
+slug: install-r-rstudio
+categories:
+  - R
+tags: []
+---
+
+This is the first Post, about install R and RStudio.
+
+1. download R
